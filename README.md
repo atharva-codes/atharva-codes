@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Aharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-codes&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-codes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atharva-codes)](https://github.com/anuraghazra/github-readme-stats)
